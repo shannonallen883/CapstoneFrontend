@@ -1,0 +1,46 @@
+#ShelterViewMyAnimals {
+    // #MyProfile {
+    //     text-align: right;
+    //     font-family: fantasy;
+    //     margin-top: 15px;
+    // }
+
+    h4 {
+        color: black;
+        font-family: cursive;
+        margin-top: 15px;
+    }
+    h6 {
+        text-align: right;
+        margin-right: 35px;
+        font-family: fantasy;
+        margin-top: 15px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    #RequiredInfo {
+        font-family: fantasy;
+        margin-top: 15px;
+        // text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    h6 {
+        //Inherit means don't use the default styling, inherit from the parent instead
+        font-weight: inherit;
+    }
+
+    #BowieInfo {
+        font-family: fantasy;
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+        // How do I space these out evenly? Tried span
+    }
+    button {
+        margin: 15px;
+    }
+}

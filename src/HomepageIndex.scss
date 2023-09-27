@@ -1,0 +1,56 @@
+#Homepage {
+    h1 {
+        color: black;
+        font-family: cursive;
+        font-size: 50px;
+        margin-left: 25px;
+    }
+
+    h2 {
+        color: rgb(9, 74, 53);
+        font-family: fantasy;
+        font-size: 40px;
+        text-align: center;
+        margin-top: 75px;
+    }
+
+    .critterImage {
+        width: auto;
+        height: 300px;
+        margin-top: 50px;
+        border-radius: 10px;
+        border-style: outset;
+        border-color: silver;
+    }
+    h4 {
+        text-align: center;
+        font-family: fantasy;
+        margin-top: 30px;
+    }
+    figcaption {
+        color: rgb(9, 74, 53);
+        font-family: fantasy;
+        margin-top: 12px;
+        font-size: 20px;
+        margin-bottom: 100px;
+    }
+
+    #welcome {
+        font-family: segoe ui;
+        // font-size: 20px;
+        margin-top: 50px;
+        margin-left: 25px;
+    }
+
+    #contact {
+        font-family: segoe ui;
+        font-size: 17px;
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    h3 {
+        margin-top: 25px;
+        font-size: 40px;
+    }
+}
